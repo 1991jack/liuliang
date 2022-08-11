@@ -7,5 +7,4 @@
 徐倩云：https://blog.csdn.net/qq_44954371?spm=1011.2266.3001.5343
 刘国辉：https://blog.csdn.net/weixin_72206076?type=blog
 苗晓杰：https://blog.csdn.net/weixin_65219914?type=sub&subType=fans
-乌云毕力格：https://blog.csdn.net/wuyunbilige66?type=blog
-周成：https://blog.csdn.net/ZhouChengtop?type=blog
+
